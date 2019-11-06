@@ -16,5 +16,7 @@ Building and using JetBot gives the hands on experience needed to create entirel
 
 To get started, read the [JetBot Wiki](https://github.com/NVIDIA-AI-IOT/jetbot/wiki).
 
+[Release](../../releases/tag/v0.3.0)
+
 
 [![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/README?pixel)](https://github.com/igrigorik/ga-beacon)
